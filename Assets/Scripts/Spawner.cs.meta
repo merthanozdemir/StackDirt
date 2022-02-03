@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e39b345fc981c32459c3e08581cef26c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dirt_prefab: {fileID: 4480891573362906501, guid: fcd83d5a7a109884d89916e1e54480b6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
